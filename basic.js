@@ -88,7 +88,7 @@ console.log(selectedColor);
 
 // voert een taak uit
 function greet(name, lastname) {
-    console.log('Hallo' +  name + '' + lastname);
+    console.log('Hallo ' +  name + ' ' + lastname);
 }
 greet(name,lastname);
 
